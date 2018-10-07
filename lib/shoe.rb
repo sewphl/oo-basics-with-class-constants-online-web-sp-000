@@ -9,9 +9,6 @@ class Shoe
     if BRANDS.include?(brand) == false
       BRANDS << brand
     end
-#    if BRANDS.include? brand == false
-#      BRANDS << brand
-#    end
   end
 
 #  def brand=(brand)
